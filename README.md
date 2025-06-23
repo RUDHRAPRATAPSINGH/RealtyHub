@@ -303,7 +303,7 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Built with ❤️ by the RealtyHub Team**
+
 
 [⬆ Back to Top](#realtyhub)
 
